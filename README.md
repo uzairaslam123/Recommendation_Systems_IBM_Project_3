@@ -28,11 +28,11 @@ Below is the file structure of this project.
 │   
 |── project_tests.py #test file 
 |
-|── top_5.p
-│   
 |── top_10.p
 │   
 |── top_20.p
+│   
+|── top_5.p
 │   
 └── user_item_matrix.p
 ```   
@@ -43,7 +43,7 @@ Below is the file structure of this project.
 
 - The **project_tests.py** is a test file which is used to run tests through out the notebook.
 
-- The **top_5**, **top_10**, **top_20**, **user_item_matrix** are teh files used to run tests on the code.
+- The **top_5**, **top_10**, **top_20**, **user_item_matrix** are the files used to run tests on the code.
 
 
 #### Dependencies
